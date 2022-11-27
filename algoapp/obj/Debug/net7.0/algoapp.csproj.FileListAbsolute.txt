@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/algoapp/obj/Debug/net7.0/algoapp.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/algoapp/obj/Debug/net7.0/algoapp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/algoapp/obj/Debug/net7.0/algoapp.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/algoapp/obj/Debug/net7.0/algoapp.AssemblyInfo.cs
+/workspaces/codespaces-blank/algoapp/obj/Debug/net7.0/algoapp.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/algoapp/bin/Debug/net7.0/algoapp
+/workspaces/codespaces-blank/algoapp/bin/Debug/net7.0/algoapp.deps.json
+/workspaces/codespaces-blank/algoapp/bin/Debug/net7.0/algoapp.runtimeconfig.json
+/workspaces/codespaces-blank/algoapp/bin/Debug/net7.0/algoapp.dll
+/workspaces/codespaces-blank/algoapp/bin/Debug/net7.0/algoapp.pdb
+/workspaces/codespaces-blank/algoapp/obj/Debug/net7.0/algoapp.dll
+/workspaces/codespaces-blank/algoapp/obj/Debug/net7.0/refint/algoapp.dll
+/workspaces/codespaces-blank/algoapp/obj/Debug/net7.0/algoapp.pdb
+/workspaces/codespaces-blank/algoapp/obj/Debug/net7.0/algoapp.genruntimeconfig.cache
+/workspaces/codespaces-blank/algoapp/obj/Debug/net7.0/ref/algoapp.dll
